@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: RiskUI
+## Notes: Remove Blizzard action bar arts 
+## Version: v0.1
+## Author: Risk
+## DefaultState: Enabled
+RiskUI.lua
